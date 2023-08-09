@@ -1,8 +1,5 @@
-# Hello, I'm **Boris Dvizov**
+# Make your software projects successful ✨
 
-- ❤️ I love coding
-- 🗄️ Write backend on FastAPI + PosgreSQL
-- 📚 Actively learning new technologies
-- 🧠 I use creative solutions to complete tasks
-- 👨🏼‍💻 I am interested in working as a Python developer on FastAPI and ready to take on new challenges in my career
+## Hello, I'm **Boris Dvizov**
 
+## I'm an experienced software engineer with over 3 years experience in web and backend development. I am proficient in JavaScript, Python languages and React.js, Next.js and FastAPI frameworks. I know how to work with MySQL and PostgreSQL databases.
