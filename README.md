@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/101431853?v=4" alt="François Voron" height="400" align="right">
+
 # Make your software projects successful ✨
 
 ### Hello, I'm [Boris Dvizov](https://t.me/BORRRRRRRRR_RRR)
