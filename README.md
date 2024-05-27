@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/101431853?v=4" alt="" height="400" align="right">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101431853?v=4" alt="" height="400" align="right">
 
 # Make your software projects successful ✨
 
