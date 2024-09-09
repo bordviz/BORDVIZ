@@ -1,6 +1,6 @@
 # Boris Dvizov 
-[![Gmail](https://img.shields.io/badge/Gmail-0447b3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borisdvizov33@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0447b3?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bordviz)
+[![Gmail](https://img.shields.io/badge/Gmail-b6f459?style=for-the-badge&logo=gmail&logoColor=black)](mailto:borisdvizov33@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-b6f459?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/bordviz)
 
 I am a back-end developer with solid data science knowledge and extensive experience building robust and scalable applications. 
 
