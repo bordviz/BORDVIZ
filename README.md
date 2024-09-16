@@ -12,6 +12,7 @@ Willing to deliver high quality solutions that meet user needs and business goal
 ## 🌱 My latest projects
 
 - [bordviz/simple-chat](https://github.com/bordviz/simple-chat) - Simple chat based on websockets
+- [bordviz/kafka-go](https://github.com/bordviz/kafka-go) - Example of using Kafka+Go
 - [bordviz/sso-grpc](https://github.com/bordviz/sso-grpc) - Authorization microservice on gRPC
 - [bordviz/secret-vault](https://github.com/bordviz/secret-vault) - A simple analog to HashiCorp Vault
 
