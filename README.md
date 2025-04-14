@@ -1,16 +1,10 @@
 # Hi there, I'm Boris 👋🏻 
-[![Gmail](https://img.shields.io/badge/Gmail-b6f459?style=for-the-badge&logo=gmail&logoColor=black)](mailto:borisdvizov33@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-b6f459?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/bordviz)
-
-## 🛠 About me
-I am a back-end developer with a solid data science background and extensive experience in building robust and scalable applications. 
-
-Proficient in various programming languages, databases and frameworks, with a focus on writing efficient and optimized code. Constantly learning and following the latest technologies and industry best practices. 
-
-Willing to deliver high quality solutions that meet user needs and business goals. Let's work together and improve together!
+[![Gmail](https://img.shields.io/badge/Gmail-526EC9?style=for-the-badge&logo=gmail&logoColor=black)](mailto:borisdvizov33@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-526EC9?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/bordviz)
 
 ## 🌱 My latest projects
 
+- [bordvizov/prometheus-grafana](https://github.com/bordviz/prometheus-grafana) - Example of using Golang and Prometheus + Grafana
 - [bordviz/simple-chat](https://github.com/bordviz/simple-chat) - Simple chat based on websockets
 - [bordviz/kafka-go](https://github.com/bordviz/kafka-go) - Example of using Kafka+Go
 - [bordviz/sso-grpc](https://github.com/bordviz/sso-grpc) - Authorization microservice on gRPC
